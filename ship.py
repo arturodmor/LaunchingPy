@@ -1,4 +1,9 @@
 from Navalpy.stability import Stability
+import logging
+import numpy as np
+
+logger = logging.getLogger()
+logger.setLevel(logging.INFO)
 
 ship = Stability(Height = 8,
                  Volume_ship =24, 
@@ -7,6 +12,5 @@ ship = Stability(Height = 8,
                  KB = 7, 
                  KG = 3)
 
-barco = ship.get_BMT()
-
-print(barco)
+BMT = ship.get_BMT()
+logger.info(f"BMT = {BMT}")
