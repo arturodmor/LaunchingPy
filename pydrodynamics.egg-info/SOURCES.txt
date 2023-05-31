@@ -1,0 +1,8 @@
+README.md
+setup.py
+pydrodynamics/__init__.py
+pydrodynamics/stability.py
+pydrodynamics.egg-info/PKG-INFO
+pydrodynamics.egg-info/SOURCES.txt
+pydrodynamics.egg-info/dependency_links.txt
+pydrodynamics.egg-info/top_level.txt
