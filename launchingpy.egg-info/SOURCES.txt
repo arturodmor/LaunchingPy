@@ -1,0 +1,6 @@
+README.md
+setup.py
+launchingpy.egg-info/PKG-INFO
+launchingpy.egg-info/SOURCES.txt
+launchingpy.egg-info/dependency_links.txt
+launchingpy.egg-info/top_level.txt

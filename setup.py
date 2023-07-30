@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
 setup(
-    name = 'pydrodynamics',
+    name = 'launchingpy',
     packages = find_packages(),
 )
