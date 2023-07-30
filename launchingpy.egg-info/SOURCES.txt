@@ -1,5 +1,9 @@
 README.md
 setup.py
+launchingpy/__init__.py
+launchingpy/maths_custom_methods.py
+launchingpy/stability.py
+launchingpy/tonnels.py
 launchingpy.egg-info/PKG-INFO
 launchingpy.egg-info/SOURCES.txt
 launchingpy.egg-info/dependency_links.txt
