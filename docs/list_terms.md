@@ -1,0 +1,1 @@
+We will write about all variables that you need to the calculus.
